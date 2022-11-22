@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Livescore/static/css/main.d6f7f151.css",
+    "main.js": "/Livescore/static/js/main.bb9b679c.js",
+    "static/js/787.ba0fb193.chunk.js": "/Livescore/static/js/787.ba0fb193.chunk.js",
+    "static/media/vsimg.png": "/Livescore/static/media/vsimg.d02df4807404f6d15c14.png",
+    "index.html": "/Livescore/index.html",
+    "main.d6f7f151.css.map": "/Livescore/static/css/main.d6f7f151.css.map",
+    "main.bb9b679c.js.map": "/Livescore/static/js/main.bb9b679c.js.map",
+    "787.ba0fb193.chunk.js.map": "/Livescore/static/js/787.ba0fb193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6f7f151.css",
+    "static/js/main.bb9b679c.js"
+  ]
+}
